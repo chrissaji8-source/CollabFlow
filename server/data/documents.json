@@ -1,0 +1,41 @@
+[
+  {
+    "id": "doc-muje3am9-jdl3u",
+    "title": "🚀 Real-Time Collaborative Architecture",
+    "type": "document",
+    "createdAt": 1790487605889,
+    "updatedAt": 1790487605896,
+    "createdBy": "System Architect",
+    "icon": "🚀",
+    "tags": [
+      "document",
+      "realtime"
+    ]
+  },
+  {
+    "id": "doc-muje3amh-1h1io",
+    "title": "🎨 System Architecture Whiteboard",
+    "type": "whiteboard",
+    "createdAt": 1790487605897,
+    "updatedAt": 1790488271240,
+    "createdBy": "Lead Designer",
+    "icon": "🎨",
+    "tags": [
+      "whiteboard",
+      "realtime"
+    ]
+  },
+  {
+    "id": "doc-mujedsbj-nx06s",
+    "title": "Untitled Canvas",
+    "type": "whiteboard",
+    "createdAt": 1790488095391,
+    "updatedAt": 1790488227191,
+    "createdBy": "Sonic Ghost",
+    "icon": "🎨",
+    "tags": [
+      "whiteboard",
+      "realtime"
+    ]
+  }
+]

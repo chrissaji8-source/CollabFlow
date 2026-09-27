@@ -1,0 +1,23 @@
+{
+  "name": "realtime-collaborative-suite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production-grade Real-Time Collaborative Suite with Yjs CRDTs, WebSockets, Redis Pub/Sub, Rich Documents & Interactive Whiteboard",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "dev": "node start-dev.mjs"
+  },
+  "keywords": [
+    "crdt",
+    "yjs",
+    "websockets",
+    "redis-pubsub",
+    "collaborative-editor",
+    "whiteboard",
+    "realtime"
+  ],
+  "author": "",
+  "license": "MIT"
+}
